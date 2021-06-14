@@ -35,7 +35,7 @@ body {
   align-items: center;
   justify-content: space-around;
   background-color: #fff;
-  
+
 }
 
 .navbar__brand {
@@ -75,12 +75,12 @@ body {
 }
 
 .hero__text {
-  font-size: 30px;
+  font-size: 25px;
   margin: 20px 0;
 }
 
 .explore__menu__text {
-  font-size: 30px;
+  font-size: 25px;
   margin-top: 50px;
   margin-bottom: 25px;
   text-align: center;
